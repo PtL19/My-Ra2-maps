@@ -11,6 +11,10 @@ Ra2 maps both for Red Alert 2 and Yuri's Revenge.
 
 1 player in the middle with 3 ramps and 1 broken bridge to the other 7 players.
 
+☆ pt1vs7 2ways(2-8)
+
+Refer to 'pt1vs7(2-8)', but only 2 ramps(ways) and 1 broken bridge to the other 7 players. Easier and richer.
+
 ☆ 1islandvs7(2-8)
 
 1 player on the southeastern island and the other 7 players on the main land.
