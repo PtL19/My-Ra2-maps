@@ -18,6 +18,9 @@ Refer to 'pt1vs7(2-8)', but only 2 ramps(ways) and 1 broken bridge to the other 
 ☆ pt1vs7plus(2-8)
 1 Player with 1 way out and others around.
 
+☆ pt1vs7pluseasy(2-8)
+Refer to above, we have Soviet and Yuri MCU for player 1 at the begining.
+
 ☆ 1islandvs7(2-8)
 
 1 player on the southeastern island and the other 7 players on the main land.
