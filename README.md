@@ -28,3 +28,7 @@ Refer to above, we have Soviet and Yuri MCU for player 1 at the begining.
 ☆ ptseawar(2-8)
 
 8 islands, some oil wells, pure Sea War.
+
+☆ ptcliff(2-8)
+
+8 players, a pass in the middle.
